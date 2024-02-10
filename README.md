@@ -2,7 +2,7 @@
 
 A classic Snake game implementation in C#/.net8.0.
 
-![Snake Game Demo](path/to/demo.gif)
+![Snake Game Demo](/WpfApp1/Assets/SnakeGame.png)
 
 ## Table of Contents
 
